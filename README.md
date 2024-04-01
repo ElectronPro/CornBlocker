@@ -6,6 +6,6 @@
 <b1>This is the Source Code for CornBlocker</b1>
   
 </body>
-
+<script>alert("hello");</script>
   
 </html>
