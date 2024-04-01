@@ -11,7 +11,8 @@
 4.cd into the clone repository and run web-ext build</b2>
 <br>
 
-<b21>To test the extension
+<b21>To test the extension:<br>
+
 NOTE:This can be done without following the above steps<br>
 
 1.Run web-ext run and It will open a temporary profile for testing<br>
