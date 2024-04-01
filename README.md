@@ -5,9 +5,9 @@
   
 <b1>This is the Source Code for CornBlocker</b1><br><b2>Steps to compile:
 
-1.Download web-ext 
-2.Clone the Repository
-3.Rename manifest-example.json to manifest.json
+1.Download web-ext<br>
+2.Clone the Repository<br>
+3.Rename manifest-example.json to manifest.json<br>
 4.cd into the clone repository and run web-ext build</b2>
 
 
