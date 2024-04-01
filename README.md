@@ -12,9 +12,12 @@
 <br>
 
 <b21>To test the extension
-NOTE:This can be done without following the above steps
-1.Run web-ext run and It will open a temporary profile for testing
-2.Go to <a href=about:debugging#/runtime/this-firefox>about:debugging#/runtime/this-firefox</a>
+NOTE:This can be done without following the above steps<br>
+
+1.Run web-ext run and It will open a temporary profile for testing<br>
+
+2.Go to <a href=about:debugging#/runtime/this-firefox>about:debugging#/runtime/this-firefox</a><br>
+
 3.Find your extensions and Click inspect.
 
 </body>
